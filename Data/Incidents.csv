@@ -1,0 +1,41 @@
+Incident_ID,Incident_Type,Priority,Status,Reported_By,Resolution_Time,Reported_Date
+1,Stage Setup Delay,High,Closed,Event Coordinator,60,2025-08-15
+2,Stage Setup Delay,Low,Open,Event Coordinator,20,2025-08-15
+3,Registration Queue Delay,Low,Closed,Faculty Coordinator,55,2025-08-15
+4,Stage Setup Delay,Medium,Closed,Technical Team,17,2025-08-15
+5,Microphone Issue,High,Open,Technical Team,28,2025-08-15
+6,Food Stall Complaint,High,Open,Event Coordinator,23,2025-08-15
+7,Guest Arrival Delay,Low,Open,Faculty Coordinator,34,2025-08-15
+8,Security Concern,High,Open,Volunteer,31,2025-08-15
+9,Stage Setup Delay,Medium,Open,Technical Team,23,2025-08-15
+10,Microphone Issue,High,Closed,Technical Team,47,2025-08-15
+11,Security Concern,Medium,Open,Event Coordinator,10,2025-08-15
+12,Stage Setup Delay,Medium,Closed,Volunteer,23,2025-08-15
+13,Security Concern,Low,Closed,Event Coordinator,16,2025-08-15
+14,Security Concern,Low,Closed,Faculty Coordinator,55,2025-08-15
+15,Lost Participant ID,Medium,Open,Faculty Coordinator,8,2025-08-15
+16,Lost Participant ID,High,Open,Faculty Coordinator,37,2025-08-15
+17,Crowd Congestion,Low,Open,Technical Team,12,2025-08-15
+18,Lost Participant ID,High,Closed,Technical Team,51,2025-08-15
+19,Registration Queue Delay,Low,Closed,Event Coordinator,30,2025-08-15
+20,Registration Queue Delay,High,Open,Volunteer,36,2025-08-15
+21,Registration Queue Delay,Medium,Open,Technical Team,52,2025-08-15
+22,Power Outage,Medium,Closed,Faculty Coordinator,37,2025-08-15
+23,Stage Setup Delay,High,Closed,Volunteer,36,2025-08-15
+24,Microphone Issue,Low,Closed,Faculty Coordinator,53,2025-08-15
+25,Microphone Issue,Low,Open,Faculty Coordinator,5,2025-08-15
+26,Registration Queue Delay,Medium,Open,Volunteer,16,2025-08-15
+27,Security Concern,Medium,Closed,Volunteer,53,2025-08-15
+28,Power Outage,High,Open,Technical Team,25,2025-08-15
+29,Crowd Congestion,Medium,Open,Technical Team,53,2025-08-15
+30,Food Stall Complaint,Medium,Closed,Technical Team,33,2025-08-15
+31,Sound System Failure,Medium,Open,Technical Team,57,2025-08-15
+32,Guest Arrival Delay,High,Closed,Faculty Coordinator,39,2025-08-15
+33,Microphone Issue,High,Open,Technical Team,34,2025-08-15
+34,Power Outage,Medium,Closed,Event Coordinator,36,2025-08-15
+35,Microphone Issue,High,Open,Faculty Coordinator,53,2025-08-15
+36,Registration Queue Delay,Low,Closed,Event Coordinator,60,2025-08-15
+37,Lost Participant ID,Medium,Closed,Faculty Coordinator,32,2025-08-15
+38,Security Concern,High,Closed,Technical Team,25,2025-08-15
+39,Power Outage,High,Closed,Faculty Coordinator,21,2025-08-15
+40,Lost Participant ID,Low,Closed,Event Coordinator,36,2025-08-15

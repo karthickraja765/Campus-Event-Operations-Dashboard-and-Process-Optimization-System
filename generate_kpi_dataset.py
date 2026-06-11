@@ -1,0 +1,23 @@
+import pandas as pd
+
+kpis = [
+    ["Total Registrations", 650],
+    ["Total Attendance", 499],
+    ["Attendance Rate (%)", 76.77],
+    ["Absentee Rate (%)", 23.23],
+    ["Total Volunteers", 20],
+    ["Total Tasks Assigned", 50],
+    ["Total Incidents", 40],
+    ["Open Incidents", 19],
+    ["Closed Incidents", 21],
+    ["Avg Resolution Time (min)", 34.30]
+]
+
+df = pd.DataFrame(
+    kpis,
+    columns=["KPI", "Value"]
+)
+
+df.to_csv("KPI_Dataset.csv", index=False)
+
+print("KPI Dataset Created Successfully")
